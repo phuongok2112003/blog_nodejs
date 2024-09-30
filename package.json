@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuongok2112003/blog_nodejs.git"
+  },
+  "keywords": [
+    "phuong"
+  ],
+  "author": "phuong2k3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuongok2112003/blog_nodejs/issues"
+  },
+  "homepage": "https://github.com/phuongok2112003/blog_nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
